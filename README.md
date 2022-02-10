@@ -127,28 +127,3 @@ var shortFormHeight: PanModalHeight {
     return .maxHeight
 }
 ```
-
-### Sample App
-
-Check out the [Sample App](https://github.com/slackhq/PanModal/tree/master/Sample) for more complex configurations of `PanModalPresentable`, including navigation controllers and stacked modals.
-
-## Documentation
-Option + click on any of PanModal's methods or notes for detailed documentation.
-
-<p align="left">
-    <img src="https://github.com/slackhq/PanModal/blob/master/Screenshots/documentation.png" width="50%" height="50%" alt="Screenshot Preview" />
-</p>
-
-## Contributing
-
-We're glad to be open sourcing this library. We use it in numerous places within the slack app and expect it to be easy to use as well as modify; we've added extensive documentation within the code to support that.
-
-We will only be fixing critical bugs, thus, for any non-critical issues or feature requests we hope to be able to rely on the community using the library to add what they need. For more information, please read the [contributing guidelines](https://github.com/slackhq/PanModal/blob/master/CONTRIBUTING.md).
-
-## Authors
-
-[Stephen Sowole](https://github.com/ste57) • [Tosin Afolabi](https://github.com/tosinaf)
-
-## License
-
-<b>PanModal</b> is released under a MIT License. See LICENSE file for details.
